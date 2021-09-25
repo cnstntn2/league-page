@@ -20,53 +20,53 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    // {
-    //   "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Humongous Melonheads",
-    //   "location": "St. Louis", // (optional)
-    // },
-    // {
-    //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Los Angeles Surfin' Elkupines",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "St. Louis", // (optional)
-    // },
-    // {
-    //   "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "NatePel",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Cincinnati", // (optional)
-    // }, 
-    // {
-    //   "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Waterloo Knights",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Waterloo", // (optional)
-    // }, 
-    // {
-    //   "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Fretful Folly",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Waterloo", // (optional)
-    // },
-    // {
-    //   "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Kuester's Krew",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "St. Louis", // (optional)
-    // },
-    // {
-    //   "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "thempen3",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Dupo", // (optional)
-    // }, 
-    // {
-    //   "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "The Gridiron Boys",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Tunnel Hill", // (optional)
-    // },
+    {
+      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Humongous Melonheads",
+      "location": "St. Louis", // (optional)
+    },
+    {
+      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Los Angeles Surfin' Elkupines",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "St. Louis", // (optional)
+    },
+    {
+      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "NatePel",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Cincinnati", // (optional)
+    }, 
+    {
+      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Waterloo Knights",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Waterloo", // (optional)
+    }, 
+    {
+      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Fretful Folly",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Waterloo", // (optional)
+    },
+    {
+      "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Kuester's Krew",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "St. Louis", // (optional)
+    },
+    {
+      "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "thempen3",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Dupo", // (optional)
+    }, 
+    {
+      "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "The Gridiron Boys",
+      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Tunnel Hill", // (optional)
+    },
   
   
   ]
